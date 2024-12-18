@@ -1,0 +1,5 @@
+int1=int(input("请输入一个整数："))
+print(bin(int1))
+print(oct(int1))
+print(int(int1))
+print(hex(int1))

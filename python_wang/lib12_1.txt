@@ -1,0 +1,6 @@
+测试read()
+测试readline()
+测试readlines()hello,world!
+hello,world!
+cheng
+wangyuan
