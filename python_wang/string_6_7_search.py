@@ -37,6 +37,7 @@ print(new_string)
 str.split(sep=None, maxsplit=-1)
 sep：分隔符，默认为空字符。
 maxsplit：分割次数，默认值为-1 表示不限制分割次数。
+maxsplit也就是分割几次，比如maxsplit=2,即会根据sep分割几次
 
 """
 test_split="wang yuan,you look absolutely stunning!"

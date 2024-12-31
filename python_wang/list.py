@@ -40,9 +40,18 @@ A = ['xiaoWang', 'xiaoZhang', 'xiaoHua']
 A[1] = 'xiaoLu'
 """向列表中添加元素是非常常见的一种列表操作，Python提供了append()、\
 extend()和insert()这几个方法向列表末尾、指定位置添加元素。
+ append and extend的区别
+
+append整体加入,比如是个列表，就把列表加入到列表中
+
+extend取出加入
+
+insert->指定插入的位置
 """
+print("list_four")
 list_four=["Java","C#","Python","PHP"]
 list_four.extend(["Android", "IOS",])
+list_four.append([1,3,4,5])
 print(list_four)
 list_four.insert(2,"HTML")
 print(list_four)
