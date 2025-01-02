@@ -57,6 +57,7 @@ list_four.insert(2,"HTML")
 print(list_four)
 """列表的排序是将元素按照某种规定进行排列。列表中常用的排序方法有sort()、reverse()和sorted()函数。
 """
+print("sort")
 lis_one=[6,2,3,5]
 """sort有序的元素会覆盖原来的列表元素，不产生新列表
 """

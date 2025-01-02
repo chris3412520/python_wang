@@ -1,3 +1,6 @@
+"""
+
+使用循环结构、turtle模块创作作品。"""
 import turtle
 
 t = turtle.Turtle()
