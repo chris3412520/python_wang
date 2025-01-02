@@ -1,0 +1,4187 @@
+
+：
+：https//www.zhihu.com/question/26953411/answer/72356876
+
+data structures 
+dictionaries 
+priority queues 
+graph data structures 
+set data structures 
+kd-trees 
+numerical problems 
+solving linear equations 
+bandwidth reduction 
+matrix multiplication 
+determinants and permanents 
+constrained and unconstrained optimization 
+linear programming 
+random number generation 
+factoring and primality testing /
+arbitrary precision arithmetic 
+knapsack problem 
+discrete fourier transform fourier
+combinatorial problems 
+sorting 
+searching 
+median and selection 
+generating permutations 
+generating subsets 
+generating partitions 
+generating graphs 
+calendrical calculations 
+job scheduling 
+satisfiability 
+graph problems -- polynomial -
+connected components 
+topological sorting 
+minimum spanning tree 
+shortest path 
+transitive closure and reduction 
+matching 
+eulerian cycle / chinese postman euler/
+edge and vertex connectivity /
+network flow 
+drawing graphs nicely 
+drawing trees 
+planarity detection and embedding 
+graph problems -- hard -np
+clique 
+independent set 
+vertex cover 
+traveling salesman problem 
+hamiltonian cycle hamilton
+graph partition 
+vertex coloring 
+edge coloring 
+graph isomorphism 
+steiner tree steiner
+feedback edge/vertex set 
+computational geometry 
+convex hull 
+triangulation 
+voronoi diagrams voronoi
+nearest neighbor search 
+range search 
+point location 
+intersection detection 
+bin packing 
+medial-axis transformation 
+polygon partitioning 
+simplifying polygons 
+shape similarity 
+motion planning 
+maintaining line arrangements 
+minkowski sum minkowski
+set and string problems 
+set cover 
+set packing 
+string matching 
+approximate string matching 
+text compression 
+cryptography 
+finite state machine minimization 
+longest common substring 
+shortest common superstring 
+dp——dynamic programming——
+recursion —— 
+
+a2a integration a2a
+abstract 
+abstract base class (abc)
+abstract class 
+abstraction 
+access 
+access level
+access function 
+account 
+action 
+activate 
+active 
+actual parameter 
+adapter 
+add-in 
+address 
+address space 
+address-of operator 
+adl (argument-dependent lookup)
+ado(activex data object)activex
+advanced
+aggregation 
+algorithm 
+alias 
+align 
+allocate 
+allocator
+angle bracket 
+annotation 
+api (application programming interface) ()
+app domain (application domain)
+application 
+application framework 
+appearance 
+append 
+architecture 
+archive file 
+argument()。parameter
+array 
+arrow operator 
+asp(active server page)
+http//asp.net worker process http//asp.net
+assembly 
+assembly language 
+assembly manifest 
+assert(ion) 
+assign 
+assignment 
+assignment operator 
+associated 
+associative container (sequential container)
+asynchronous 
+atomic 
+atomic operation 
+attribute 
+authentication service 
+authorization 
+audio 
+a.i. 
+b2b integration b2bb2b(business-to-business integration)
+background ()
+backward compatible 
+backup 
+backup device
+backup file 
+bandwidth 
+base class 
+base type 
+batch 
+bcl (base class library)
+binary 
+binary search 
+binary tree 
+binary function 
+binary large object
+binary operator 
+binding 
+bit 
+bitmap 
+bitwise ...
+bitwise copy ；,
+bitwise operation 
+block 
+bookkeeping 
+boolean (truefalse)
+border 
+bounds checking 
+boxing 
+brace (curly brace) 
+bracket (square brakcet) 
+breakpoint 
+browser applications ()
+browser-accessible application 
+build (
+built-in 
+bus 
+business ()
+business logic 
+business rules 
+buttons 
+bug 
+by/through 
+byte (8 bits)
+cache 
+calendar 
+call 
+callback 
+call-level interface (cli)(cli)
+call operator 
+candidate key  (for database)
+cascading delete  (for database)
+cascading update  (for database)
+casting 
+catalog 
+chain (function calls)
+character 
+character format 
+character set 
+check constraints check (for database)
+checkpoint  (for database)
+check box 
+check button 
+child class 
+cil (common intermediate language)
+class 
+class declaration 
+class definition 
+class derivation list 
+class factory 
+class hierarchy 
+class library 
+class loader 
+class template 
+class template partial specializations 
+class template specializations 
+classification 
+clause 
+client application 
+client cursor  (for database)
+code page 
+cleanup 
+cli (common language infrastructure) 
+client 
+client area 
+client-server //
+clipboard 
+clone 
+cls (common language specification) 
+code access security 
+coff (common object file format) 
+collection 
+com (component object model) 
+combo box 
+command line 
+comment 
+commit  (for database)
+communication 
+compatible 
+compile time 
+compiler 
+component
+composite index  (for database)
+composite key  (for database)
+composition 
+concept 
+concrete
+concrete class 
+concurrency 
+constraint  (for database)
+configuration 
+connection  (for database)
+connection pooling 
+console 
+constant 
+construct （for language）
+constructor (ctor) 
+container 
+containment
+context 
+control 
+cookie ()
+copy 
+corba (common object request broker architecture)
+cover 
+create/creation 
+crosstab query  (for database)
+crtp (curiously recurring template pattern)
+cts (common type system)
+cube  (for database)
+cursor 
+cursor  (for database)
+custom 
+
+
+--- -----------
+data 
+data connection  (for database)
+data control language (dcl) (dcl) (for database)
+data definition language (ddl) (ddl) (for database)
+data dictionary  (for database)
+data dictionary view  (for database)
+data file  (for database)
+data integrity  (for database)
+data manipulation language (dml)(dml) (for database)
+data mart  (for database)
+data pump  (for database)
+data scrubbing  (for database)
+data source  (for database)
+data source name (dsn) (dsn) (for database)
+data warehouse  (for database)
+dataset  (for database)
+database  (for database)
+database catalog  (for database)
+database diagram  (for database)
+database file  (for database)
+database object  (for database)
+database owner  (for database)
+database project  (for database)
+database role  (for database)
+database schema  (for database)
+database scrīpt  (for database)
+data-bound  (for database)
+data-aware control (for database)
+data member 
+dataset  (for database)
+data source  (for database)
+data structure
+data table  (for database)
+datagram 
+dbms (database management system) (for database)
+dcom (distributed com)com
+dead lock  (for database)
+deallocate 
+debug 
+debugger 
+decay 
+decision support 
+declaration 
+declarative referential integrity (dri)(dri) (for database)
+deduction 
+default constraint (for database)
+default database  (for database)
+default instance  (for database)
+default result set  (for database)
+default 
+defer 
+definition 
+delegate 
+delegation 
+dependent name
+deploy 
+dereference 
+dereference operator ()
+derived class 
+design by contract 
+design pattern 
+destroy 
+destructor(dtor)
+device 
+dhtml (dynamic hypertext markup language)
+dialog 
+digest 
+digital 
+dime (direct internet message encapsulation)internet
+directive ()
+directory 
+dirty pages (for database)
+dirty read  (for database)
+disassembler 
+disco (discovery of web services)web services
+disk 
+dispatch （“”）
+dispid (dispatch identifier)
+distributed computing 
+distributed query  (for database)
+dna (distributed internet application) 
+document 
+dom (document object model)
+dot operator ()
+driver ()
+dtd (document type definition) 
+double-byte character set (dbcs)(dbcs)
+dump 
+dump file 
+dynamic cursor  (for database)
+dynamic filter  (for database)
+dynamic locking  (for database)
+dynamic recovery  (for database)
+dynamic snapshot  (for database)
+dynamic sql statements sql (for database)
+dynamic assembly 
+dynamic binding 
+eai (enterprise application integration)()
+ebco (empty base class optimization) 
+e-business 
+edi (dlectronic data interchange)
+efficiency 
+efficient 
+end-to-end authentication 
+end user 
+engine 
+entity 
+encapsulation 
+enclosing class ( nested class)
+enum (enumeration) 
+enumerators 
+equal 
+equality 
+equality operator 
+error log  (for database)
+escape code 
+escape character 
+exclusive lock  (for database)
+explicit transaction  (for database)
+evaluate 
+event 
+event driven 
+event handler 
+evidence 
+exception 
+exception declaration 
+exception handling 
+exception-safe 
+exception specification 
+exit 
+explicit 
+explicit specialization 
+export 
+expression 
+facility 
+fat client 
+feature 
+fetch 
+field (java)
+field  (for database)
+field length  (for database)
+file 
+filter  (for database)
+finalization 
+firewall 
+finalizer 
+firmware 
+flag 
+flash memory 
+flush 
+font 
+foreign key (fk) (fk) (for database)
+form 
+formal parameter 
+forward declaration 
+forward-only 
+forward-only cursor  (for database)
+fragmentation  (for database)
+framework 
+full specialization 
+function 
+function call operator (operator ()) 
+function object 
+function overloaded resolution
+functionality 
+function template
+functor 
+gac (global assembly cache) 
+gc (garbage collection) ()()
+game 
+generate 
+generic 
+generic algorithm
+genericity 
+getter ( setter)
+global 
+global object 
+global scope resolution operator 
+grant  (for database)
+granularity 
+group 
+group box 
+gui 
+guid (globally unique identifier) 
+hand shaking 
+handle 
+handler 
+hard-coded 
+hard-copy 
+hard disk 
+hardware 
+hash table 
+header file
+heap 
+help file 
+hierarchy 
+hierarchical data 
+hook 
+host (application)()
+hot key 
+hyperlink 
+html (hypertext markup language) 
+http pipeline http
+http (hypertext transfer protocol) 
+icon 
+ide (integrated development environment)
+idl (interface definition language) 
+identifier 
+idle time 
+if and only if
+il (intermediate language) 
+image 
+ime 
+immediate base 
+immediate derived 
+immediate updating  (for database)
+implicit transaction (for database)
+incremental update  (for database)
+index  (for database)
+implement 
+implementation 
+implicit 
+import 
+increment operator 
+infinite loop 
+infinite recursive 
+information 
+infrastructure 
+inheritance 
+inline 
+inline expansion 
+initialization 
+initialization list 
+initialize 
+inner join  (for database)
+in-place active 
+instance 
+instantiated (template)
+instantiation (template)
+integrate 
+integrity 
+integrity constraint (for database)
+interprocess communication (ipc)(ipc)
+interacts 
+interface 
+for gui 
+interoperability 
+interpreter 
+introspection 
+invariants 
+invoke 
+isolation level  (for database)
+iterate 
+iterative 
+iterator 
+iteration (iteration)
+item 
+jit compilation jit 
+key  (for database)
+key column  (for database)
+laser 
+late binding 
+left outer join  (for database)
+level 
+high level 
+library 
+lifetime 
+link 
+linkage 
+linker 
+literal constant 
+list 
+list box 
+livelock  (for database)
+load 
+load balancing 
+loader 
+local 
+local object 
+lock 
+log 
+login 
+login security mode (for database)
+lookup table  (for database)
+loop 
+loose coupling 
+lvalue 
+machine code 
+macro 
+maintain 
+managed code 
+managed extensions 
+managed object 
+mangled name
+manifest 
+manipulator (iostream)
+many-to-many relationship  (for database)
+many-to-one relationship  (for database)
+marshal 
+member 
+member access operator (dotarrow)
+member function 
+member initialization list
+memberwise member…members …
+memberwise copy
+memory 
+memory leak 
+menu 
+message 
+message based 
+message loop 
+message queuing
+metadata 
+metaprogramming
+method 
+micro 
+middleware 
+middle tier 
+modeling 
+modeling language 
+modifier 
+modem 
+module 
+most derived class
+mouse 
+mutable 
+mutex 
+multidimensional olap (molap) olap(molap) (for database)
+multithreaded server application 
+multiuser 
+multi-tasking 
+multi-thread 
+multicast delegate 
+named parameter 
+named pipe 
+namespace 
+native 
+native code 
+native image generator (ngen)
+nested class 
+nested query  (for database)
+nested table  (for database)
+network 
+network card 
+nondependent name
+object 
+object based 
+object file 
+object model 
+object oriented 
+object pooling 
+odbc data source odbc (for database)
+odbc driver odbc (for database)
+odr (one-definition rule)
+ole automation objects ole (for database)
+ole automation server ole (for database)
+ole db consumer ole db (for database)
+ole db for olap olapole db (for database)
+ole db provider ole db (for database)
+one-to-many relationship  (for database)
+one-to-one relationship  (for database)
+online analytical processing (olap) (olap) (for database)
+online redo log  (for database)
+online transaction processing (oltp) (oltp) (for database)
+open data services (ods) (ods) (for database)
+open database connectivity (odbc) (odbc) (for database)
+operand 
+operating system (os) 
+operation 
+operator 
+option 
+optimizer 
+outer join  (for database)
+overflow (underflow)
+overhead 
+overload 
+overload resolution 
+overloaded function 
+overloaded operator 
+override 
+package 
+packaging 
+palette 
+parallel 
+parameter 
+parameter list 
+parameterize 
+parent class 
+parentheses 
+parse 
+parser 
+part 
+partial specialization 
+pass by address ()()
+pass by reference 
+pass by value 
+pattern 
+pda (personal digital assistant)
+pe (portable executable) file 
+performance 
+persistence 
+pinvoke (platform invoke service) 
+pixel 
+placement delete
+placement new
+placeholder 
+platform 
+pod (plain old data (type))
+poi (point of instantiation)
+pointer 
+poll 
+pooling 
+polymorphism 
+pop up 
+port 
+postfix 
+precedence ()
+prefix 
+preprocessor 
+primary key (pk)(pk) (for database)
+primary table  (for database)
+primary template
+primitive type 
+print 
+printer 
+procedure 
+procedural 
+process 
+profile 
+profiler ()
+program 
+programmer 
+programming
+progress bar 
+project 
+property 
+protocol 
+pseudo code
+qualified (scope)
+qualifiedqualifier 
+quality 
+queue 
+race condition 
+radian 
+radio button 
+raise (exception)
+random number 
+range 
+rank 
+raw 
+readonly
+record  (for database)
+recordset  (for database
+recursive 
+re-direction 
+refactoring 
+refer 
+reference 
+reference counting
+referential integrity (ri)(ri) (for database)
+register 
+reflection 
+refresh data  (for database)
+regular expression 
+relational database 
+remote 
+remote request 
+represent 
+resolve 
+resolution 
+result set  (for database)
+retrieve data 
+return 
+return type 
+return value 
+right outer join  (for database)
+revoke 
+robust 
+robustness 
+roll back  (for database)
+roll forward  (for database)
+routine 
+row  (for database)
+row lock  (for database)
+rowset  (for database)
+rpc (remote procedure call)rpc()
+runtime 
+rvalue 
+save 
+savepoint  (for database)
+sax (simple api for xml)
+scalable 
+schedule 
+scheduler 
+schema 
+scroll bar
+scope 
+scope operator 
+scope resolution operator 
+screen 
+sdk (software development kit)
+sealed class 
+search 
+semantics 
+semaphore 
+sequential container
+server 
+serial 
+serialization/serialize 
+server cursor (for database)
+session  (for database)
+setter 
+shared lock  (for database)
+sibling 
+side effect 
+signature 
+single-threaded 
+slider
+slot 
+smart pointer 
+smtp (simple mail transfer protocol) 
+snapshot 
+snapshot  (for database)
+specialization 
+specification 
+splitter 
+soap (simple object access protocol) 
+software 
+source code 
+sql (structured query language)  (for database)
+stack 
+stack unwinding (exception)
+standard library 
+standard template library 
+stateless 
+statement 
+static cursor  (for database)
+static sql statements sql (for database)
+stored procedure  (for database)
+status bar 
+stream 
+string 
+stub 
+subobject
+subquery  (for database)
+subroutine 
+subscrīpt operator 
+subset 
+subtype 
+support 
+suspend 
+symbol 
+syntax 
+system databases  (for database)
+system tables  (for database)
+table  (for database)
+table lock  (for database)
+table-level constraint  (for database)
+tape backup  (for database)
+target ,
+task switch 
+tcp (transport control protocol) 
+template 
+template-id
+template argument deduction 
+template explicit specialization 
+template parameter 
+template template parameter
+temporary object 
+temporary table  (for database)
+text 
+text file 
+thin client 
+third-party 
+thread 
+thread-safe 
+throw (exception)
+token 
+trace 
+transaction  (for database)
+transaction log  (for database)
+transaction rollback  (for database)
+transactional replication  (for database)
+translation unit 
+traverse 
+trigger  (for database)
+two-phase commit  (for database)
+tuple
+two-phase lookup 
+type 
+uddi(universary descrīption, discovery and integration)
+uml (unified modeling language)
+unary function 
+unary operator 
+unboxing 
+underflow (overflow)
+union query  (for database)
+unique constraints unique (for database)
+unique index  (for database)
+unmanaged code 
+unmarshal 
+unqualified 
+uri (uniform resource identifier) 
+url (uniform resource locator) 
+user 
+user interface 
+value types 
+variable 
+vector (array)
+viable 
+video 
+view 
+vee (virtual execution engine)
+vendor 
+view  (for database)
+virtual function 
+virtual machine 
+virtual memory 
+vowel 
+web services web
+where clause where (for database)
+wildcard characters  (for database)
+wildcard search  (for database)
+window 
+window function 
+window procedure 
+windows authentication windows
+wizard 
+word 
+word processor 
+wrapper 
+write enable  (for database)
+write-ahead log  (for database)
+write-only 
+wsdl (web service descrīption language)web service
+xml message interface (xmi) xml
+xml (extensible markup language) 
+xsd (xml schema definition) xml
+xsl (extensible stylesheet language) 
+xslt (extensible stylesheet language transformation)
+xxx based xxx
+xxx oriented xxx
+
+other 1 
+application  
+application framework  
+architecture  
+argument 。 parameter 
+array  
+arrow operator arrow 
+assembly 
+assembly language  
+assert(ion) 
+assign  
+assignment  
+assignment operator  = 
+associated  
+associative container （ sequential container） 
+atomic  
+attribute  
+audio  
+a.i.  
+background  
+
+backward compatible  
+bandwidth  
+base class  
+base type  ( base class)
+batch  
+benefit  
+best viable function  
+（ viable functions ）
+binary search  
+binary tree  
+binary function  
+binary operator  
+binding  
+bit  
+bit field  
+bitmap  
+bitwise  bit ┅
+bitwise copy  bit ； 
+block , 
+boolean （true  false） 
+border  
+brace(curly brace)  
+bracket(square brakcet)  
+breakpoint  
+build （ms ）
+build－in  
+bus  
+business , 
+buttons  
+byte （ 8 bits ） 
+cache  
+call  
+callback  
+call operator call
+（ function call operator）
+candidate function  
+
+chain （ chain of function calls） 
+character  
+check box  (i.e. check button) 
+checked exception (java)
+check button  (i.e. check box) 
+child class （derived class, subtype） 
+class  
+class body  
+class declaration  
+class definition  
+class derivation list  
+class head  
+class hierarchy ,  
+class library  
+class template  
+class template partial specializations
+
+class template specializations
+
+cleanup  
+client  
+client－server  /
+clipboard  
+clone  
+collection  
+combo box  
+command line  
+()
+communication  
+compatible  
+compile time  
+compiler  
+component  
+composition  
+computer  
+concept  
+concrete  
+concurrent  
+configuration  
+connection （,） 
+constraint 
+construct  
+container  
+（ list, vector...）
+containment  
+context  
+control  
+console  
+const （constant c++ ）
+constant （ variable） 
+constructor（ctor）  
+（class  member functions）
+copy (v)  
+copy (n) , 
+cover  
+create  
+creation  
+cursor  
+custom  
+data  
+database  
+database schema 
+data member  
+data structure  
+datagram  
+dead lock  
+debug  
+debugger  
+declaration  
+deduction （：template argument deduction） 
+default  
+defer  
+define  
+definition  
+delegate  
+delegation 
+demarshal  
+dereference  
+dereference operator dereference * 
+derived class  
+design by contract 
+design pattern  
+※ 「」
+destroy 
+destructor  
+device  
+dialog  
+directive （：using directive） ()
+directory  
+disk  
+dispatch  
+distributed computing  () 
+ ()
+document  
+dot operator dot . ()
+driver  
+dynamic binding  
+efficiency  
+efficient  
+end user 
+entity  
+encapsulation  
+enclosing class （ nested class ）
+enum (enumeration) （ c++ ） 
+enumerators （enum ） 
+equal  
+equality  
+equality operator equality == 
+equivalence  
+equivalent  
+escape code  
+evaluate  
+event  
+event driven  
+exception  
+exception declaration （ref. c++ primer 3/e, 11.3） 
+exception handling  
+exception specification （ref. c++ primer 3/e, 11.4） 
+exit  
+explicit  
+export  
+expression  
+facility  
+feature 
+field ,（java） , （java）
+file  
+firmware  
+flag  
+flash memory  
+flexibility  
+flush  
+font  
+form （programming ） 
+formal parameter  
+forward declaration  
+forwarding , 
+forwarding function , 
+fractal  
+framework  
+full specialization （ref. partial specialization）
+function  
+function call operator  call operator
+function object （ref. c++ primer 3/e, 12.3） 
+function overloaded resolution
+ 
+functionality  
+function template  
+functor  
+game  
+generate 
+generic  
+generic algorithm  
+getter ( setter) 
+global （ local） 
+global object  
+global scope resolution operator
+  
+group 
+group box  
+guard clause  (refactoring, p250) 
+gui  
+hand shaking 
+handle  
+handler  
+hard－coded  
+hard－copy  
+hard disk  
+hardware  
+hash table  
+header file  
+heap  
+hierarchy  
+hook  
+hyperlink  
+icon  
+ide  
+identifier  
+if and only if  
+illinois  
+image  
+immediate base  base class。 
+immediate derived  derived class。 
+immutability 
+immutable 
+implement  
+implementation  
+implicit  
+import  
+increment operator  ++ 
+infinite loop  
+infinite recursive  
+information  
+infrastructure 
+inheritance  
+inline  
+inline expansion  
+initialization  
+initialization list  
+initialize  
+inner class  
+instance  
+（「」）
+instantiated （ template） 
+instantiation （ template） 
+integer (integral)  
+integrate  
+interacts  
+interface  
+for gui  
+interpreter  
+invariants , 
+invoke  
+iterate  
+exception  
+exception declaration （ref. c++ primer 3/e, 11.3） 
+exception handling  
+exception specification （ref. c++ primer 3/e, 11.4） 
+exit  
+explicit  
+export  
+expression  
+facility  
+feature 
+field ,（java） , （java）
+file  
+firmware  
+flag  
+flash memory  
+flexibility  
+flush  
+font  
+form （programming ） 
+formal parameter  
+forward declaration  
+forwarding , 
+forwarding function , 
+fractal  
+framework  
+full specialization （ref. partial specialization）
+function  
+function call operator  call operator
+function object （ref. c++ primer 3/e, 12.3） 
+function overloaded resolution
+ 
+functionality  
+function template  
+functor  
+game  
+generate 
+generic  
+generic algorithm  
+getter ( setter) 
+global （ local） 
+global object  
+global scope resolution operator
+  
+group 
+group box  
+guard clause  (refactoring, p250) 
+gui  
+hand shaking 
+handle  
+handler  
+hard－coded  
+hard－copy  
+hard disk  
+hardware  
+hash table  
+header file  
+heap  
+hierarchy  
+hook  
+hyperlink  
+icon  
+ide  
+identifier  
+if and only if  
+illinois  
+image  
+immediate base  base class。 
+immediate derived  derived class。 
+immutability 
+immutable 
+implement  
+implementation  
+implicit  
+import  
+increment operator  ++ 
+infinite loop  
+infinite recursive  
+information  
+infrastructure 
+inheritance  
+inline  
+inline expansion  
+initialization  
+initialization list  
+initialize  
+inner class  
+instance  
+（「」）
+instantiated （ template） 
+instantiation （ template） 
+integer (integral)  
+integrate  
+interacts  
+interface  
+for gui  
+interpreter  
+invariants , 
+invoke  
+iterate  
+iterative 
+iterator  
+iteration （ iteration） 
+item  
+laser  
+level   ()
+ high level  
+library  
+lifetime  
+link  ,
+linker  
+literal constant （ 3.14  "hi" ） 
+list （linked－list） 
+list box  
+load  
+loader  
+local （ global） 
+local object  
+lock 
+loop  
+lvalue  
+macro  
+magic number  
+maintain  
+manipulator （iostream ） 
+marshal  
+ demarshal
+mechanism  
+member  
+member access operator （ dot  arrow ） 
+member function  
+member initialization list
+
+memberwise  member ┅members ┅ 
+memberwise copy  members 
+memory  
+menu  
+message  
+message based  
+message loop  
+method (java)  
+meta－ － －
+ meta－programming  
+micro  
+middleware  
+modeling 
+modeling language 
+modem  
+module  
+modifier  
+most derived class  
+mouse  
+mutable  
+multi－tasking  
+namespace  
+native  
+nested class  
+network  
+network card  
+object  
+object based  
+object file  
+object model  
+object oriented  
+online  
+opaque 
+operand  
+operating system (os)  
+operation  
+operator  
+option  
+ordinary  
+overflow （ underflow） （underflow）
+overhead  
+overload  
+overloaded function  
+overloaded operator  
+overloaded set  
+override  
+（ derived class 
+package  
+pair 
+palette 
+pane  
+（ java content pane）
+parallel  
+parameter  
+parameter list  
+parent class （ base class） 
+parentheses  
+parse  
+part  
+partial specialization （ref. c++ primer 3/e, 16.10） 
+（ref. full specialization）
+pass by address 
+pass by reference  , 
+pass by value  
+pattern  
+performance  
+persistence  
+pixel  
+placement delete ref. c++ primer 3/e, 15.8.2
+placement new ref. c++ primer 3/e, 15.8.2
+platform  
+pointer  
+（ reference ）
+poll  
+polymorphism  
+pop up  
+port  
+postfix  
+precedence 
+prefix  
+preprocessor  
+prime  
+primitive type  ( base class,)
+print  
+printer  
+priority  ( cpu ）
+procedure  
+procedural  
+process  
+profile  
+profiler  
+programmer  
+programming  
+progress bar  
+project  
+property 
+protocol  
+pseudo code  
+qualified （ scope ） 
+qualifier  
+quality  
+queue  
+radian  
+radio button  
+raise （ exception） 
+random number  
+range （ stl ） 
+rank （ref. c++primer 3/e 9,15） 
+raw  
+record  
+recordset  
+recursive  
+re－direction  
+refactoring  
+refer  
+refer to 
+reference （c++  ""） 
+, see pointer
+register  
+reflection  
+relational database  
+represent  
+resolve （ 
+）
+resolution  
+resolution  
+restriction 
+return  
+return type  
+return value  
+robust  
+robustness  
+routine  
+runtime  
+common language runtime (clr) 「」
+rvalue  
+save  
+schedule  
+scheduler  
+scheme 
+scroll bar  
+scope  
+scope operator   
+scope resolution operator
+
+（scope operator）
+screen  
+search  
+semantics  
+sequential container  
+（ associative container）
+server  
+serial 
+serialization , 
+(serialize)
+setter ( getter) 
+signal 
+signature  
+slider  
+slot  
+smart pointer  
+snapshot  
+specialization  
+specification  
+splitter  
+software  
+solution , 
+source  
+stack  
+stack unwinding （ exception ）  *
+standard library 
+standard template library 
+statement  
+status bar  
+stl  standard template library
+stream  
+string  
+subroutine
+subscript operator  [ ] 
+subtype  
+support  
+suspend  
+symbol  
+syntax  
+tag  
+,
+target （ target pointer：） 
+task switch  
+template  
+template argument deduction
+
+template explicit specialization
+ 
+template parameter  
+temporary object  
+text  
+text file  
+thread  
+thread safe  
+throw （ exception） 
+token  
+transaction  
+transparent(ly) ()
+traverse  
+trigger  
+type  
+uml unified modeling language 
+unary function  
+unary operator  
+underflow （ overflow） 
+unchecked exception (java)
+unqualified 
+unwinding ref. stack unwinding
+user  
+user interface  
+variable （ const） 
+vector （ array） 
+viable  
+viable function  
+（ candidate functions ）
+video  
+view (1) 
+(document/view) /
+view (2) 
+virtual function  
+virtual machine  
+virtual memory  , 
+volatile 
+vowel  
+window  
+window function  
+window procedure  
+word  
+word processor  
+wrapper  absence 
+access 
+achieve 
+acquire 
+adjacency list method 
+adjacency matrix method 
+algorithm 
+allocate 
+analog 
+append 
+archive 
+array 
+assign 
+assume 
+assurance 
+atm(asynchronous transfer mode) 
+b.. real programs kernels 
+b.. toy benchmark synthetic benchmark 
+balance 
+bandwidth 
+batch 
+benchmark 
+best-fit algorithm 
+bfs(breadth first search) 
+binary 
+binary relation 
+binary tree 
+bit series 
+black-box white-box 
+block miss 
+blocked ()
+boundary 
+bridge 
+bubble sort 
+calculation 
+candidate key ()
+capability 
+capacity 
+cartesian product 
+case(com.. aided sof.. engineering) 
+ccp(communication control processor) 
+cell 
+characteristic 
+circuit switching 
+circular wait 
+cisc(complex instruction set computer) 
+class 
+client/server /
+clock cycle clock rate 
+coaxial cable 
+cohesion coupling 
+coincidental logical procedural functional 
+combination 
+common 
+communication 
+complement number 
+component 
+concept 
+condition 
+conform 
+consist 
+constrain 
+contain 
+correspond (corresponding) ()
+cpett 
+cpi 
+csma/cd 
+cursor 
+cyclic redundency check 
+database integrity consistency restory 
+database security efficiency  
+deadlock mutual exclusion  
+deadlock circular wait no preemption  
+decimal 
+decision 
+decomposition 
+decrease 
+definition 
+definition phase 
+demonstrate 
+design phase 
+determine 
+development phase 
+dfs(depth first search) 
+diagram 
+difference manchester 
+directed graph undirected graph 
+distinguish 
+distributed system 
+divide division 
+divide union intersection difference 
+document 
+dqdb(distributed queue dual bus) 
+draw 
+dual 
+dynamic design process 
+element 
+elevator (scan) algorithm 
+encapsulation inheritance () ()
+encode 
+entity 
+entity integrity rule 
+equal 
+equation 
+estimate 
+ethernet 
+evolution 
+exceed 
+exchange sort 
+exclusive locks (x )
+execute 
+exhibit 
+existence 
+expertise 
+external(internal) fragmentation ()
+fault page fault 
+fddi(fiber distributed data interface) 
+fdm(frequency division multiplexing 
+fiber optic cable 
+fifo replacement policy 
+figure 
+final 
+first normal form 
+floppy ()
+foreign key domain tuple 
+form 
+formula 
+foundation 
+frame page frame 
+frequency 
+ftp 
+function 
+functionally dependent 
+gateway 
+gather 
+general-purose registers 
+generate 
+grade 
+graph (graphic) 
+gropher 
+ftp
+guarantee 
+hash table hash function collision () 
+hdlc 
+hit rate 
+host 
+host language statement 
+hypertext 
+illustrate 
+independent 
+index 
+indirect 
+influence 
+initially 
+insertion sort 
+instruction format 
+instruction set 
+interface 
+internal 
+interrupt 
+ipc 
+isam vsam 
+join natural join semijoin 
+judgment 
+kernel executive supervisor user 
+kernels 
+key comparison ()
+lan(local area network) 
+load 
+logical functional 
+longitudinal 
+loop 
+maintain 
+maintanence phase ()
+man(metropclitan area network) 
+manchester 
+map 
+matrix 
+memory reference 
+message switching 
+method 
+mflop(million floating point operate p s 
+minimum 
+mips(millions of instructions per second 
+module 
+monitor (model benchmark physcal) method ()
+multilevel data flow chart 
+multiple 
+multiple-term formula 
+multiplexing 
+multiplication 
+mutual exclusion 
+non-key attributes 
+null 
+nyquist 
+object oriented 
+object oriented analysis 
+object oriented databases 
+object oriented design 
+object oriented implementation 
+obtain 
+occupy 
+occurrence 
+odd 
+one-dimensional array 
+oodb(object oriented data base) 
+oom(object oriented method) 
+oom information object message class 
+oom instance method message passing 
+open system 
+operand 
+optimized 
+optional 
+organize 
+overflow 
+overlapping register windows 
+packet switching 
+page fault 
+page replacement algorithm 
+paged segments 
+pcb(process control block) 
+peer entites 
+perform 
+period 
+permit 
+phase 
+physical data link network layer 
+pipeline 
+platter track cluster 
+predicate 
+preemption 
+prefix (polish form) ()
+preorder inorder postorder 
+presentation application layer 
+primary key attributes 
+principle 
+procedural coincidental 
+process 
+proficient 
+program debugging 
+projection selection join 
+proposition 
+protocal 
+prototype 
+prototyping method (model) ()
+pseudo-code (pdl)
+punctuation 
+purpose 
+quality 
+queue 
+ready blocked running () 
+real page number 
+real programs 
+redirected 
+redundency 
+reference integrity rule 
+referred to as .....
+regarde 
+register(registry) 
+regularly 
+relation 
+relay 
+reliability 
+repeater 
+replacement 
+represent 
+request indication response confirm 
+resource 
+respon 
+risc(reduced instruction set computer) 
+robustness 
+router 
+scheme 
+sector head cylinder 
+selection sort 
+semaphores 
+sequence 
+shanon 
+share locks (s )
+short path critical path 
+signal 
+signal-to-noise ratio b/n
+similar 
+sisd simd misd mimd * * 
+smds 
+software development phase 
+software engineering 
+software portability 
+software requirements specification 
+solve 
+sort 
+spanning tree ()
+specify 
+speedup 
+sstf(shortest-seek-time-first) ()
+stack strategy non-stack strategy 
+starvation 
+statement 
+storage 
+store procdures 
+strategy 
+strict 
+styles 
+subgroup 
+subset 
+superclass subclass abstract class 
+suppose 
+symbolic 
+synthetic benchmark 
+system testing 
+systolic 
+table 
+tdm(time division multiplexing) 
+technology 
+terminal 
+testing phase 
+theta select project theta join θθ
+time complexity 
+timestamping 
+token bus 
+token ring 
+toy benchmark 
+transaction 
+transmite 
+transport layer session layer 
+traversal method 
+triggers store procedures 
+(oracle )
+underflow 
+unique 
+unit system acceptance testing 
+universe 
+update 
+value []
+variable 
+vertical 
+vertice edge () 
+via 
+virtual memory system 
+wan(wide area network) 
+waterfall model 
+white noise 
+write-back(copy-back) 
+write-through(store-through) 
+www(world wide web) 
+other 2 
+a
+active-matrix
+adapter cards
+advanced application
+analytical graph
+analyze
+animations
+application software 
+arithmetic operations
+audio-output device
+access time
+access
+accuracy
+ad network cookies
+add-ons
+address
+agents
+analog signals
+applets
+asynchronous communications port
+attachment
+b
+bar code
+bar code reader
+basic application
+binary coding schemes
+binary system
+bit
+browser
+bus line
+backup tape cartridge units
+bandwidth
+bluetooth
+broadband
+browser
+business-to-business
+business-to-consumer
+bus
+c
+cables
+cell
+chain printer
+character and recognition device
+chart
+chassis
+chip
+clarity
+closed architecture
+column
+combination key
+computer competency
+connectivity
+continuous-speech recognition system
+control unit
+cordless or wireless mouse
+cable modems
+carpal tunnel syndrome
+cd-rom
+cd-rw
+cd-r
+channel
+chat group
+chlorofluorocarbons(cfcs) ]
+client
+coaxial cable
+cold site
+commerce servers
+communication channel
+communication systems
+compact disc rewritable
+compact disc
+computer abuse amendments act of 19941994
+computer crime
+computer ethics
+computer fraud and abuse act of 1986
+computer matching and privacy protection act of 1988
+computer network
+computer support specialist
+computer technician
+computer trainer
+connection device
+connectivity
+consumer-to-consumer
+cookies-cutter programs
+cookies
+cracker
+cumulative trauma disorder
+cybercash
+cyberspace
+cynic
+d
+database
+database files
+database manager
+data bus
+data projector
+desktop system unit
+destination file
+digital cameras
+digital notebooks
+digital bideo camera
+discrete-speech recognition system
+document
+document files
+dot-matrix printer
+dual-scan monitor
+dumb terminal
+data security
+data transmission specifications
+database administrator
+dataplay
+demodulation
+denial of service attack
+dial-up service
+digital cash
+digital signals
+digital subscriber line
+digital versatile disc
+digital video disc
+direct access
+directory search
+disaster recovery plan
+disk caching
+diskette
+disk
+distributed data processing system
+distributed processing
+domain code
+downloading
+dvd 
+dvd-r dvd
+dvd-ram dvd
+dvd-rom dvd
+e
+e-book
+expansion cards
+end user
+e-cash
+e-commerce
+electronic cash
+electronic commerce
+electronic communications privacy act of1986
+encrypting
+energy star
+enterprise computing
+environment
+erasable optical disks
+ergonomics
+ethics
+external modem
+extranet
+f
+fax machine
+field
+find
+firewire port port
+firmware
+flash ram
+flatbed scanner
+flat-panel monitor
+floppy disk
+formatting toolbar
+formula
+function
+fair credit reporting act of 1970
+fiber-optic cable
+file compression
+file decompression
+filter
+firewall
+firewall
+fixed disk
+flash memory
+flexible disk
+floppies
+floppy disk
+floppy-disk cartridge
+formatting
+freedom of information act of 1970
+frustrated
+full-duplex communication
+g
+general-purpose application
+gigahertz
+graphic tablet
+green pc
+h
+handheld computer
+hard copy
+hard disk
+hardware
+help
+host computer
+home page
+hyperlink
+hacker
+half-duplex communication
+hard disk
+hard-disk cartridge
+hard-disk pack
+head crash
+header
+help desk specialist
+helper applications
+hierarchical network
+history file
+hits
+horizontal portal
+hot site
+hybrid network
+hyperlinks
+i
+image capturing device
+information technology
+ink-jet printer
+integrated package
+intelligent terminal
+intergrated circuit
+interface cards
+internal modem
+internet telephony
+internet terminal
+identification
+i-drive
+illusion of anonymity
+index search
+information pushers
+initializing 
+instant messaging
+internal hard disk
+internal modem
+internet hard drive 
+intranet
+j
+joystick
+k
+keyword search
+l
+laser printer
+layout files
+light pen
+locate
+logical operations
+lands
+line of sight communication
+low bandwidth
+lurking
+m
+main board
+mark sensing
+mechanical mouse
+memory
+menu
+menu bar
+microprocessor
+microseconds
+modem card
+monitor
+motherboard
+mouse 
+multifunctional device
+magnetic tape reels
+magnetic tape streamers
+mailing list
+medium band
+metasearch engine
+microwave
+modem
+modulation
+n
+net pc
+network adapter card
+network personal computer
+network terminal 
+notebook computer
+notebook system unit
+numeric entry
+na?ve
+national information infrastructure protection act of1996
+national service provider
+network architecture
+network bridge
+network gateway
+network manager
+newsgroup
+no electronic theft act of1997
+node
+nonvolatile storage
+o
+object embedding
+object linking
+open architecture
+optical disk
+optical mouse
+optical scanner
+outline
+off-line browsers
+online storage
+p
+palmtop computer
+parallel ports
+passive-matrix
+pc card
+personal laser printer
+personal video recorder card
+photo printer
+pixel
+platform scanner
+plotter
+plug and play
+plug-in boards
+pointer
+pointing stick
+port
+portable scanner
+presentation files
+presentation graphics
+primary storage
+procedures
+processor
+programming control lanugage
+packets
+parallel data transmission
+peer-to-peer network system
+person-person auction site
+physical security
+pits
+plug-in
+polling
+privacy
+proactive
+programmer
+protocols
+provider
+proxy server
+pull products
+push products
+r
+ram cache
+range
+record
+relational database
+replace
+resolution
+row
+read-only
+reformatting
+regional service provider
+repetitive motion injury
+reverse directory
+right to financial privacy act of 1979
+s
+scanner
+search
+secondary storage device
+semiconductor
+serial ports
+server
+shared laser printer
+sheet
+silicon chip
+slots
+smart card
+soft copy
+software suite
+sorting
+source file
+special-purpose application
+spreadsheet
+standard toolbar
+supercomputer
+system cabine 
+system clock
+system software
+satellite/air connection services
+search engines
+search providers
+search services 
+sectors
+security
+sending and receiving devices
+sequential access
+serial data transmission
+signature line
+snoopware
+software copyright act of1980
+software piracy
+solid-state storage
+specialized search engine
+spiders
+spike
+star network
+strategy
+subject
+subscription address
+superdisk
+surfing
+surge protector
+systems analyst
+t
+table
+telephony
+television boards
+terminal 
+template
+text entry
+thermal printer 
+thin client
+toggle key
+toolbar
+touch screen
+trackball
+tv tuner card
+two-state system
+technical writer
+technostress
+telnet
+time-sharing system
+topology
+tracks
+traditional cookies
+twisted pair
+u
+unicode
+uploading
+usenet
+v
+virtual memory
+video display screen
+voice recognition system
+vertical portal
+video privacy protection act of 1988
+virus checker
+virus
+voiceband
+volatile storage
+voltage surge
+w
+wand reader 
+web 
+web appliance 
+web page
+web site address
+web terminal
+webcam
+what-if analysis
+wireless revolution
+word
+word processing
+word wrap
+worksheet file 
+web auctions
+web broadcasters
+web portals
+web sites
+web storefront creation packages
+web storefronts
+web utilities
+web-downloading utilities
+webmaster web
+web
+wireless modems
+wireless service provider
+world wide web
+worm
+write-protect notch
+
+dvd digital bersatile 
+it ingormation technology
+cd compact disc 
+pda personal digital assistant
+ram random access memory
+www world wide web 
+dbms database management system
+html hypertext markup language
+ole object linking and embedding
+sql structured query language
+url uniform resouice locator
+agp accelerated graphics port
+alu arithmetic-logic unit
+cpu central processing unit
+cmos complementary metal-oxide semiconductor
+cisc complex instruction set computer
+hpsb high performance serial bus
+isa industry standard architecture
+pci peripheral component interconnect
+pcmcia personal memory card international association
+ram random-access memory
+rom read-only memory
+usb universal serial bus
+crt cathode-ray tube
+hdtv high-definition television
+lcd liquid crystal display monitor
+micrmagnetic-ink character recognition
+ocr optical-character recognition
+omr optical-mark recognition
+tft thin film transistor monitor
+
+zip disk
+domain name system（dns）
+file transfer protocol(ftp)
+hypertext markup language(html)
+local area network（lan）
+internet relay chat(irc)
+metropolitan area network(man)
+network operation system(nos)
+uniform resource locator(url)
+wide area network(wan)
+
+
+1. 
+follow：casefollow。
+
+team：teamleaderteamteamteamteam。
+
+policy： policypolicypolicypolicy。
+
+open：open？？
+
+share：。shareshare。
+
+plan：。planplan？plan。
+
+milestone：。milestone。milestone。
+
+product：。product“”。
+
+project：。pm。
+
+boss：。bossboss。
+
+close：。close“close”“finish”finishclose。
+
+manager：。managermanagermanager。
+
+delay：。delayplanplanmilestonemilestonedelay。
+
+schedule：。scheduleexcel
+
+update：
+
+push：。push。
+
+solution：。totalsolution。
+
+announce：。emailannounce。
+
+interview：。
+
+resource：
+
+review：1
+2. 
+api：applicationprogramminginterface。api。
+
+codeing：
+
+“codeing”,。
+
+document：
+
+webbase：web
+
+“webbase”web“b/s”“b/s”“webbase”。
+
+facetoface：
+
+handbyhand：
+
+stepbystep：
+
+quality：
+
+“quality”“quality”。
+
+on-line：
+
+“on-line”。
+
+handbook：
+
+license：
+
+“license”“license”“license”“license”“”。“license”。“license”。
+
+on-site：
+
+“on-site”。
+
+report：
+
+“report”“”“report”“report？”“”。
+
+version：
+
+3. 
+
+voicegateway：
+
+router：
+
+hub：hub
+
+switch：
+
+4. 
+
+order：
+
+price：
+
+listprice：“listprice”“listprice”。
+
+customer：
+
+partner：
+
+billing：
+
+marketing：
+
+5. 
+
+ceo：chiefexecutiveofficer
+
+coo：chiefoperatingofficer
+
+cto：chieftechnologyofficer
+
+director：
+
+hr：humanresource
+
+cs：customerservice
+
+mis：
+
+teamleader：
+
+pm：projectmanager
+
+sales：
+
+engineer：
+
+parttime：
+
+：
+application  
+application framework  
+architecture  
+argument 。 parameter 
+array  
+arrow operator arrow 
+assembly 
+assembly language  
+assert(ion) 
+assign  
+assignment  
+assignment operator  = 
+associated  
+associative container （ sequential container） 
+atomic  
+attribute  
+audio  
+a.i.  
+background  
+
+backward compatible  
+bandwidth  
+base class  
+base type  ( base class)
+batch  
+benefit  
+best viable function  
+（ viable functions ）
+binary search  
+binary tree  
+binary function  
+binary operator  
+binding  
+bit  
+bit field  
+bitmap  
+bitwise  bit 
+bitwise copy  bit   
+block , 
+boolean （true  false） 
+border  
+brace(curly brace)  
+bracket(square brakcet)  
+breakpoint  
+build （ms ）
+build－in  
+bus  
+business , 
+buttons  
+byte （ 8 bits ） 
+cache  
+call  
+callback  
+call operator call
+（ function call operator）
+candidate function  
+
+chain （ chain of function calls） 
+character  
+check box  (i.e. check button) 
+checked exception (java)
+check button  (i.e. check box) 
+child class （derived class, subtype） 
+class  
+class body  
+class declaration  
+class definition  
+class derivation list  
+class head  
+class hierarchy ,  
+class library  
+class template  
+class template partial specializations  
+class template specializations  
+cleanup  
+client  
+client－server  /
+clipboard  
+clone  
+collection  
+combo box  
+command line  
+()
+communication  
+compatible  
+compile time  
+compiler  
+component  
+composition  
+computer  
+concept  
+concrete  
+concurrent  
+configuration  
+connection （,） 
+constraint 
+construct  
+container   （ list, vector...）
+containment  
+context  
+control  
+console  
+const （constant c++ ）
+constant （ variable） 
+constructor（ctor）   （class  member functions）
+copy (v)  
+copy (n) , 
+cover  
+create  
+creation  
+cursor  
+custom  
+data  
+database  
+database schema 
+data member  
+data structure  
+datagram  
+dead lock  
+debug  
+debugger  
+declaration  
+deduction （：template argument deduction） 
+default  
+defer  
+define  
+definition  
+delegate  
+delegation 
+demarshal  
+dereference  
+dereference operator dereference * 
+derived class  
+design by contract 
+design pattern  
+※ 「」
+destroy 
+destructor  
+device  
+dialog  
+directive （：using directive） ()
+directory  
+disk  
+dispatch  
+distributed computing  () 
+ ()
+document  
+dot operator dot . ()
+driver  
+dynamic binding  
+efficiency  
+efficient  
+end user 
+entity  
+encapsulation  
+enclosing class （ nested class ）
+enum (enumeration) （ c++ ） 
+enumerators （enum ） 
+equal  
+equality  
+equality operator equality == 
+equivalence  
+equivalent  
+escape code  
+evaluate  
+event  
+event driven  
+exception  
+exception declaration （ref. c++ primer 3/e, 11.3） 
+exception handling  
+exception specification （ref. c++ primer 3/e, 11.4） 
+exit  
+explicit  
+export  
+expression  
+facility  
+feature 
+field ,（java） , （java）
+file  
+firmware  
+flag  
+flash memory  
+flexibility  
+flush  
+font  
+form （programming ） 
+formal parameter  
+forward declaration  
+forwarding , 
+forwarding function , 
+fractal  
+framework  
+full specialization （ref. partial specialization）
+function  
+function call operator  call operator
+function object （ref. c++ primer 3/e, 12.3） 
+function overloaded resolution  
+functionality  
+function template  
+functor  
+game  
+generate 
+generic  
+generic algorithm  
+getter ( setter) 
+global （ local） 
+global object  
+global scope resolution operator
+  
+group 
+group box  
+guard clause  (refactoring, p250) 
+gui  
+hand shaking 
+handle  
+handler  
+hard－coded  
+hard－copy  
+hard disk  
+hardware  
+hash table  
+header file  
+heap  
+hierarchy  
+hook  
+hyperlink  
+icon  
+ide  
+identifier  
+if and only if  
+illinois  
+image  
+immediate base  base class。 
+immediate derived  derived class。 
+immutability 
+immutable 
+implement  
+implementation  
+implicit  
+import  
+increment operator  ++ 
+infinite loop  
+infinite recursive  
+information  
+infrastructure 
+inheritance  
+inline  
+inline expansion  
+initialization  
+initialization list  
+initialize  
+inner class  
+instance  
+（「」）
+instantiated （ template） 
+instantiation （ template） 
+integer (integral)  
+integrate  
+interacts  
+interface  
+for gui  
+interpreter  
+invariants , 
+invoke  
+iterate  
+exception  
+exception declaration （ref. c++ primer 3/e, 11.3） 
+exception handling  
+exception specification （ref. c++ primer 3/e, 11.4） 
+exit  
+explicit  
+export  
+expression  
+facility  
+feature 
+field ,（java） , （java）
+file  
+firmware  
+flag  
+flash memory  
+flexibility  
+flush  
+font  
+form （programming ） 
+formal parameter  
+forward declaration  
+forwarding , 
+forwarding function , 
+fractal  
+framework  
+full specialization （ref. partial specialization）
+function  
+function call operator  call operator
+function object （ref. c++ primer 3/e, 12.3） 
+function overloaded resolution
+ 
+functionality  
+function template  
+functor  
+game  
+generate 
+generic  
+generic algorithm  
+getter ( setter) 
+global （ local） 
+global object  
+global scope resolution operator
+  
+group 
+group box  
+guard clause  (refactoring, p250) 
+gui  
+hand shaking 
+handle  
+handler  
+hard－coded  
+hard－copy  
+hard disk  
+hardware  
+hash table  
+header file  
+heap  
+hierarchy  
+hook  
+hyperlink  
+icon  
+ide  
+identifier  
+if and only if  
+illinois  
+image  
+immediate base  base class。 
+immediate derived  derived class。 
+immutability 
+immutable 
+implement  
+implementation  
+implicit  
+import  
+increment operator  ++ 
+infinite loop  
+infinite recursive  
+information  
+infrastructure 
+inheritance  
+inline  
+inline expansion  
+initialization  
+initialization list  
+initialize  
+inner class  
+instance  
+（「」）
+instantiated （ template） 
+instantiation （ template） 
+integer (integral)  
+integrate  
+interacts  
+interface  
+for gui  
+interpreter  
+invariants , 
+invoke  
+iterate  
+iterative 
+iterator  
+iteration （ iteration） 
+item  
+laser  
+level   ()
+ high level  
+library  
+lifetime  
+link  ,
+linker  
+literal constant （ 3.14  "hi" ） 
+list （linked－list） 
+list box  
+load  
+loader  
+local （ global） 
+local object  
+lock 
+loop  
+lvalue  
+macro  
+magic number  
+maintain  
+manipulator （iostream ） 
+marshal  
+ demarshal
+mechanism  
+member  
+member access operator （ dot  arrow ） 
+member function  
+member initialization list
+
+memberwise  member ┅members ┅ 
+memberwise copy  members 
+memory  
+menu  
+message  
+message based  
+message loop  
+method (java)  
+meta－ － －
+ meta－programming  
+micro  
+middleware  
+modeling 
+modeling language 
+modem  
+module  
+modifier  
+most derived class  
+mouse  
+mutable  
+multi－tasking  
+namespace  
+native  
+nested class  
+network  
+network card  
+object  
+object based  
+object file  
+object model  
+object oriented  
+online  
+opaque 
+operand  
+operating system (os)  
+operation  
+operator  
+option  
+ordinary  
+overflow （ underflow） （underflow）
+overhead  
+overload  
+overloaded function  
+overloaded operator  
+overloaded set  
+override  
+（ derived class 
+package  
+pair 
+palette 
+pane  
+（ java content pane）
+parallel  
+parameter  
+parameter list  
+parent class （ base class） 
+parentheses  
+parse  
+part  
+partial specialization （ref. c++ primer 3/e, 16.10） 
+（ref. full specialization）
+pass by address 
+pass by reference  , 
+pass by value  
+pattern  
+performance  
+persistence  
+pixel  
+placement delete ref. c++ primer 3/e, 15.8.2
+placement new ref. c++ primer 3/e, 15.8.2
+platform  
+pointer  
+（ reference ）
+poll  
+polymorphism  
+pop up  
+port  
+postfix  
+precedence 
+prefix  
+preprocessor  
+prime  
+primitive type  ( base class,)
+print  
+printer  
+priority  ( cpu ）
+procedure  
+procedural  
+process  
+profile  
+profiler  
+programmer  
+programming  
+progress bar  
+project  
+property 
+protocol  
+pseudo code  
+qualified （ scope ） 
+qualifier  
+quality  
+queue  
+radian  
+radio button  
+raise （ exception） 
+random number  
+range （ stl ） 
+rank （ref. c++primer 3/e 9,15） 
+raw  
+record  
+recordset  
+recursive  
+re－direction  
+refactoring  
+refer  
+refer to 
+reference （c++  ""） 
+, see pointer
+register  
+reflection  
+relational database  
+represent  
+resolve （ 
+）
+resolution  
+resolution  
+restriction 
+return  
+return type  
+return value  
+robust  
+robustness  
+routine  
+runtime  
+common language runtime (clr) 「」
+rvalue  
+save  
+schedule  
+scheduler  
+scheme 
+scroll bar  
+scope  
+scope operator   
+scope resolution operator
+
+（scope operator）
+screen  
+search  
+semantics  
+sequential container  
+（ associative container）
+server  
+serial 
+serialization , 
+(serialize)
+setter ( getter) 
+signal 
+signature  
+slider  
+slot  
+smart pointer  
+snapshot  
+specialization  
+specification  
+splitter  
+software  
+solution , 
+source  
+stack  
+stack unwinding （ exception ）  *
+standard library 
+standard template library 
+statement  
+status bar  
+stl  standard template library
+stream  
+string  
+subroutine
+subscript operator  [ ] 
+subtype  
+support  
+suspend  
+symbol  
+syntax  
+tag  
+,
+target （ target pointer：） 
+task switch  
+template  
+template argument deduction
+
+template explicit specialization
+ 
+template parameter  
+temporary object  
+text  
+text file  
+thread  
+thread safe  
+throw （ exception） 
+token  
+transaction  
+transparent(ly) ()
+traverse  
+trigger  
+type  
+uml unified modeling language 
+unary function  
+unary operator  
+underflow （ overflow） 
+unchecked exception (java)
+unqualified 
+unwinding ref. stack unwinding
+user  
+user interface  
+variable （ const） 
+vector （ array） 
+viable  
+viable function  
+（ candidate functions ）
+video  
+view (1) 
+(document/view) /
+view (2) 
+virtual function  
+virtual machine  
+virtual memory  , 
+volatile 
+vowel  
+window  
+window function  
+window procedure  
+word  
+word processor  
+wrapper  
+：
+a2a integration a2a
+abstract 
+abstract base class (abc)
+abstract class 
+abstraction 
+access 
+access level
+access function 
+account 
+action 
+activate 
+active 
+actual parameter 
+adapter 
+add-in 
+address 
+address space 
+address-of operator 
+adl (argument-dependent lookup)
+ado(activex data object)activex
+advanced 
+aggregation 
+algorithm 
+alias 
+align 
+allocate 
+allocator
+angle bracket 
+annotation 
+api (application programming interface) ()
+app domain (application domain)
+application 
+application framework 
+appearance 
+append 
+architecture 
+archive file 
+argument()。parameter
+array 
+arrow operator 
+asp(active server page)
+asp.net worker process asp.net
+assembly 
+assembly language 
+assembly manifest 
+assert(ion) 
+assign 
+assignment 
+assignment operator 
+associated 
+associative container (sequential container)
+asynchronous 
+atomic 
+atomic operation 
+attribute 
+authentication service 
+authorization 
+audio 
+a.i. 
+b2b integration b2bb2b(business-to-business integration)
+background ()
+backward compatible 
+backup 
+backup device
+backup file 
+bandwidth 
+base class 
+base type 
+batch 
+bcl (base class library)
+binary 
+binary search 
+binary tree 
+binary function 
+binary large object
+binary operator 
+binding 
+bit 
+bitmap 
+bitwise ...
+bitwise copy ；,
+bitwise operation 
+block 
+bookkeeping 
+boolean (truefalse)
+border 
+bounds checking 
+boxing 
+brace (curly brace) 
+bracket (square brakcet) 
+breakpoint 
+browser applications ()
+browser-accessible application 
+build (
+built-in 
+bus 
+business ()
+business logic 
+business rules 
+buttons 
+bug 
+by/through 
+byte (8 bits)
+cache 
+calendar 
+call 
+callback 
+call-level interface (cli)(cli)
+call operator 
+candidate key  (for database)
+cascading delete  (for database)
+cascading update  (for database)
+casting 
+catalog 
+chain (function calls)
+character 
+character format 
+character set 
+check constraints check (for database)
+checkpoint  (for database)
+check box 
+check button 
+child class 
+cil (common intermediate language)
+class 
+class declaration 
+class definition 
+class derivation list 
+class factory 
+class hierarchy 
+class library 
+class loader 
+class template 
+class template partial specializations 
+class template specializations 
+classification 
+clause 
+client application 
+client cursor  (for database)
+code page 
+cleanup 
+cli (common language infrastructure) 
+client 
+client area 
+client-server //
+clipboard 
+clone 
+cls (common language specification) 
+code access security 
+coff (common object file format) 
+collection 
+com (component object model) 
+combo box 
+command line 
+comment 
+commit  (for database)
+communication 
+compatible 
+compile time 
+compiler 
+component
+composite index  (for database)
+composite key  (for database)
+composition 
+concept 
+concrete
+concrete class 
+concurrency 
+constraint  (for database)
+configuration 
+connection  (for database)
+connection pooling 
+console 
+constant 
+construct （for language）
+constructor (ctor) 
+container 
+containment
+context 
+control 
+cookie ()
+copy 
+corba (common object request broker architecture)
+cover 
+create/creation 
+crosstab query  (for database)
+crtp (curiously recurring template pattern)
+cts (common type system)
+cube  (for database)
+cursor 
+cursor  (for database)
+custom 
+data 
+data connection  (for database)
+data control language (dcl) (dcl) (for database)
+data definition language (ddl) (ddl) (for database)
+data dictionary  (for database)
+data dictionary view  (for database)
+data file  (for database)
+data integrity  (for database)
+data manipulation language (dml)(dml) (for database)
+data mart  (for database)
+data pump  (for database)
+data scrubbing  (for database)
+data source  (for database)
+data source name (dsn) (dsn) (for database)
+data warehouse  (for database)
+dataset  (for database)
+database  (for database)
+database catalog  (for database)
+database diagram  (for database)
+database file  (for database)
+database object  (for database)
+database owner  (for database)
+database project  (for database)
+database role  (for database)
+database schema  (for database)
+database script  (for database)
+data-bound  (for database)
+data-aware control (for database)
+data member 
+dataset  (for database)
+data source  (for database)
+data structure
+data table  (for database)
+datagram 
+dbms (database management system) (for database)
+dcom (distributed com)com
+dead lock  (for database)
+deallocate 
+debug 
+debugger 
+decay 
+decision support 
+declaration 
+declarative referential integrity (dri)(dri) (for database)
+deduction 
+default constraint (for database)
+default database  (for database)
+default instance  (for database)
+default result set  (for database)
+default 
+defer 
+definition 
+delegate 
+delegation 
+dependent name
+deploy 
+dereference 
+dereference operator ()
+derived class 
+design by contract 
+design pattern 
+destroy 
+destructor(dtor)
+device 
+dhtml (dynamic hypertext markup language)
+dialog 
+digest 
+digital 
+dime (direct internet message encapsulation)internet
+directive ()
+directory 
+dirty pages (for database)
+dirty read  (for database)
+disassembler 
+disco (discovery of web services)web services
+disk 
+dispatch （“”）
+dispid (dispatch identifier)
+distributed computing 
+distributed query  (for database)
+dna (distributed internet application) 
+document 
+dom (document object model)
+dot operator ()
+driver ()
+dtd (document type definition) 
+double-byte character set (dbcs)(dbcs)
+dump 
+dump file 
+dynamic cursor  (for database)
+dynamic filter  (for database)
+dynamic locking  (for database)
+dynamic recovery  (for database)
+dynamic snapshot  (for database)
+dynamic sql statements sql (for database)
+dynamic assembly 
+dynamic binding 
+eai (enterprise application integration)()
+ebco (empty base class optimization) 
+e-business 
+edi (dlectronic data interchange)
+efficiency 
+efficient 
+end-to-end authentication 
+end user 
+engine 
+entity 
+encapsulation 
+enclosing class ( nested class)
+enum (enumeration) 
+enumerators 
+equal 
+equality 
+equality operator 
+error log  (for database)
+escape code 
+escape character 
+exclusive lock  (for database)
+explicit transaction  (for database)
+evaluate 
+event 
+event driven 
+event handler 
+evidence 
+exception 
+exception declaration 
+exception handling 
+exception-safe 
+exception specification 
+exit 
+explicit 
+explicit specialization 
+export 
+expression 
+facility 
+fat client 
+feature 
+fetch 
+field (java)
+field  (for database)
+field length  (for database)
+file 
+filter  (for database)
+finalization 
+firewall 
+finalizer 
+firmware 
+flag 
+flash memory 
+flush 
+font 
+foreign key (fk) (fk) (for database)
+form 
+formal parameter 
+forward declaration 
+forward-only 
+forward-only cursor  (for database)
+fragmentation  (for database)
+framework 
+full specialization 
+function 
+function call operator (operator ()) 
+function object 
+function overloaded resolution
+functionality 
+function template
+functor 
+gac (global assembly cache) 
+gc (garbage collection) ()()
+game 
+generate 
+generic 
+generic algorithm
+genericity 
+getter ( setter)
+global 
+global object 
+global scope resolution operator 
+grant  (for database)
+granularity 
+group 
+group box 
+gui 
+guid (globally unique identifier) 
+hand shaking 
+handle 
+handler 
+hard-coded 
+hard-copy 
+hard disk 
+hardware 
+hash table 
+header file
+heap 
+help file 
+hierarchy 
+hierarchical data 
+hook 
+host (application)()
+hot key 
+hyperlink 
+html (hypertext markup language) 
+http pipeline http
+http (hypertext transfer protocol) 
+icon 
+ide (integrated development environment)
+idl (interface definition language) 
+identifier 
+idle time 
+if and only if
+il (intermediate language) 
+image 
+ime 
+immediate base 
+immediate derived 
+immediate updating  (for database)
+implicit transaction (for database)
+incremental update  (for database)
+index  (for database)
+implement 
+implementation 
+implicit 
+import 
+increment operator 
+infinite loop 
+infinite recursive 
+information 
+infrastructure 
+inheritance 
+inline 
+inline expansion 
+initialization 
+initialization list 
+initialize 
+inner join  (for database)
+in-place active 
+instance 
+instantiated (template)
+instantiation (template)
+integrate 
+integrity 
+integrity constraint (for database)
+interprocess communication (ipc)(ipc)
+interacts 
+interface 
+for gui 
+interoperability 
+interpreter 
+introspection 
+invariants 
+invoke 
+isolation level  (for database)
+iterate 
+iterative 
+iterator 
+iteration (iteration)
+item 
+jit compilation jit 
+key  (for database)
+key column  (for database)
+laser 
+late binding 
+left outer join  (for database)
+level 
+high level 
+library 
+lifetime 
+link 
+linkage 
+linker 
+literal constant 
+list 
+list box 
+livelock  (for database)
+load 
+load balancing 
+loader 
+local 
+local object 
+lock 
+log 
+login 
+login security mode (for database)
+lookup table  (for database)
+loop 
+loose coupling 
+lvalue 
+machine code 
+macro 
+maintain 
+managed code 
+managed extensions 
+managed object 
+mangled name
+manifest 
+manipulator (iostream)
+many-to-many relationship  (for database)
+many-to-one relationship  (for database)
+marshal 
+member 
+member access operator (dotarrow)
+member function 
+member initialization list
+memberwise member…members …
+memberwise copy
+memory 
+memory leak 
+menu 
+message 
+message based 
+message loop 
+message queuing
+metadata 
+metaprogramming
+method 
+micro 
+middleware 
+middle tier 
+modeling 
+modeling language 
+modifier 
+modem 
+module 
+most derived class
+mouse 
+mutable 
+mutex 
+multidimensional olap (molap) olap(molap) (for database)
+multithreaded server application 
+multiuser 
+multi-tasking 
+multi-thread 
+multicast delegate 
+named parameter 
+named pipe 
+namespace 
+native 
+native code 
+native image generator (ngen)
+nested class 
+nested query  (for database)
+nested table  (for database)
+network 
+network card 
+nondependent name
+object 
+object based 
+object file 
+object model 
+object oriented 
+object pooling 
+odbc data source odbc (for database)
+odbc driver odbc (for database)
+odr (one-definition rule)
+ole automation objects ole (for database)
+ole automation server ole (for database)
+ole db consumer ole db (for database)
+ole db for olap olapole db (for database)
+ole db provider ole db (for database)
+one-to-many relationship  (for database)
+one-to-one relationship  (for database)
+online analytical processing (olap) (olap) (for database)
+online redo log  (for database)
+online transaction processing (oltp) (oltp) (for database)
+open data services (ods) (ods) (for database)
+open database connectivity (odbc) (odbc) (for database)
+operand 
+operating system (os) 
+operation 
+operator 
+option 
+optimizer 
+outer join  (for database)
+overflow (underflow)
+overhead 
+overload 
+overload resolution 
+overloaded function 
+overloaded operator 
+override 
+package 
+packaging 
+palette 
+parallel 
+parameter 
+parameter list 
+parameterize 
+parent class 
+parentheses 
+parse 
+parser 
+part 
+partial specialization 
+pass by address ()()
+pass by reference 
+pass by value 
+pattern 
+pda (personal digital assistant)
+pe (portable executable) file 
+performance 
+persistence 
+pinvoke (platform invoke service) 
+pixel 
+placement delete
+placement new
+placeholder 
+platform 
+pod (plain old data (type))
+poi (point of instantiation)
+pointer 
+poll 
+pooling 
+polymorphism 
+pop up 
+port 
+postfix 
+precedence ()
+prefix 
+preprocessor 
+primary key (pk)(pk) (for database)
+primary table  (for database)
+primary template
+primitive type 
+print 
+printer 
+procedure 
+procedural 
+process 
+profile 
+profiler ()
+program 
+programmer 
+programming
+progress bar 
+project 
+property 
+protocol 
+pseudo code
+qualified (scope)
+qualified name
+qualifier 
+quality 
+queue 
+race condition 
+radian 
+radio button 
+raise (exception)
+random number 
+range 
+rank 
+raw 
+readonly
+record  (for database)
+recordset  (for database
+recursive 
+re-direction 
+refactoring 
+refer 
+reference 
+reference counting
+referential integrity (ri)(ri) (for database)
+register 
+reflection 
+refresh data  (for database)
+regular expression 
+relational database 
+remote 
+remote request 
+represent 
+resolve 
+resolution 
+result set  (for database)
+retrieve data 
+return 
+return type 
+return value 
+right outer join  (for database)
+revoke 
+robust 
+robustness 
+roll back  (for database)
+roll forward  (for database)
+routine 
+row  (for database)
+row lock  (for database)
+rowset  (for database)
+rpc (remote procedure call)rpc()
+runtime 
+rvalue 
+save 
+savepoint  (for database)
+sax (simple api for xml)
+scalable 
+schedule 
+scheduler 
+schema 
+scroll bar
+scope 
+scope operator 
+scope resolution operator 
+screen 
+sdk (software development kit)
+sealed class 
+search 
+semantics 
+semaphore 
+sequential container
+server 
+serial 
+serialization/serialize 
+server cursor (for database)
+session  (for database)
+setter 
+shared lock  (for database)
+sibling 
+side effect 
+signature 
+single-threaded 
+slider
+slot 
+smart pointer 
+smtp (simple mail transfer protocol) 
+snapshot 
+snapshot  (for database)
+specialization 
+specification 
+splitter 
+soap (simple object access protocol) 
+software 
+source code 
+sql (structured query language)  (for database)
+stack 
+stack unwinding (exception)
+standard library 
+standard template library 
+stateless 
+statement 
+static cursor  (for database)
+static sql statements sql (for database)
+stored procedure  (for database)
+status bar 
+stream 
+string 
+stub 
+subobject
+subquery  (for database)
+subroutine 
+subscript operator 
+subset 
+subtype 
+support 
+suspend 
+symbol 
+syntax 
+system databases  (for database)
+system tables  (for database)
+table  (for database)
+table lock  (for database)
+table-level constraint  (for database)
+tape backup  (for database)
+target ,
+task switch 
+tcp (transport control protocol) 
+template 
+template-id
+template argument deduction 
+template explicit specialization 
+template parameter 
+template template parameter
+temporary object 
+temporary table  (for database)
+text 
+text file 
+thin client 
+third-party 
+thread 
+thread-safe 
+throw (exception)
+token 
+trace 
+transaction  (for database)
+transaction log  (for database)
+transaction rollback  (for database)
+transactional replication  (for database)
+translation unit 
+traverse 
+trigger  (for database)
+two-phase commit  (for database)
+tuple
+two-phase lookup 
+type 
+uddi(universary description, discovery and integration)
+uml (unified modeling language)
+unary function 
+unary operator 
+unboxing 
+underflow (overflow)
+union query  (for database)
+unique constraints unique (for database)
+unique index  (for database)
+unmanaged code 
+unmarshal 
+unqualified 
+uri (uniform resource identifier) 
+url (uniform resource locator) 
+user 
+user interface 
+value types 
+variable 
+vector (array)
+viable 
+video 
+view 
+vee (virtual execution engine)
+vendor 
+view  (for database)
+virtual function 
+virtual machine 
+virtual memory 
+vowel 
+web services web
+where clause where (for database)
+wildcard characters  (for database)
+wildcard search  (for database)
+window 
+window function 
+window procedure 
+windows authentication windows
+wizard 
+word 
+word processor 
+wrapper 
+write enable  (for database)
+write-ahead log  (for database)
+write-only 
+wsdl (web service description language)web service
+xml message interface (xmi) xml
+xml (extensible markup language) 
+xsd (xml schema definition) xml
+xsl (extensible stylesheet language) 
+xslt (extensible stylesheet language transformation)
+xxx based xxx
+xxx oriented xxx
+
+data structures 
+dictionaries 
+priority queues 
+graph data structures 
+set data structures 
+kd-trees 
+numerical problems 
+solving linear equations 
+bandwidth reduction 
+matrix multiplication 
+determinants and permanents 
+constrained and unconstrained optimization 
+linear programming 
+random number generation 
+factoring and primality testing /
+arbitrary precision arithmetic 
+knapsack problem 
+discrete fourier transform fourier
+combinatorial problems 
+sorting 
+searching 
+median and selection 
+generating permutations 
+generating subsets 
+generating partitions 
+generating graphs 
+calendrical calculations 
+job scheduling 
+satisfiability 
+graph problems -- polynomial -
+connected components 
+topological sorting 
+minimum spanning tree 
+shortest path 
+transitive closure and reduction 
+matching 
+eulerian cycle / chinese postman euler/
+edge and vertex connectivity /
+network flow 
+drawing graphs nicely 
+drawing trees 
+planarity detection and embedding 
+graph problems -- hard -np
+clique 
+independent set 
+vertex cover 
+traveling salesman problem 
+hamiltonian cycle hamilton
+graph partition 
+vertex coloring 
+edge coloring 
+graph isomorphism 
+steiner tree steiner
+feedback edge/vertex set 
+computational geometry 
+convex hull 
+triangulation 
+voronoi diagrams voronoi
+nearest neighbor search 
+range search 
+point location 
+intersection detection 
+bin packing 
+medial-axis transformation 
+polygon partitioning 
+simplifying polygons 
+shape similarity 
+motion planning 
+maintaining line arrangements 
+minkowski sum minkowski
+set and string problems 
+set cover 
+set packing 
+string matching 
+approximate string matching 
+text compression 
+cryptography 
+finite state machine minimization 
+longest common substring 
+shortest common superstring 
+dp——dynamic programming——
+recursion —— 
+		
+socket		
+performance		
+atm		
+memory		
+eclipse		 ide
+oracle		
+cookie		 web session 
+stack		
+port		
+cardboard		google  vr 
+container		
+terminal		
+python		python
+jetty		 servlet 
+tomcat		 servlet 
+backbone		 mvc 
+bug		
+apache		web
+cache		
+ruby		ruby
+java	()	java
+process		
+route		
+site		
+dump		
+thread		
+crash		
+firewall	()	
+host		
+guest		host 
+log		
+pipe		
+monitor		
+access	; 	
+border		
+client		
+server		
+crack		
+domain		
+fat		
+trojan		()
+shell		
+postscript		
+program		
+clipboard	()	
+master		
+slave		
+bus		
+packet		
+image		
+mirror		
+array		
+branch		
+fork		(git)
+frame		
+gdg		
+polymer		 web 
+dart		
+flag		
+promise		javascript 
+commit	;	()
+console		
+landscape		
+portrait		
+spring		 java ioc 
+hibernate		 java orm 
+core		coreos
+map		
+set		()
+kernel		
+boot		
+boost		c++ 
+stub		
+review		()
+comment		
+break point		
+angular	()	 web mvc 
+render	 	
+swift		swift 
